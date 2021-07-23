@@ -11,10 +11,10 @@
 
 Сборка тестового задания:	
 1.	Предоставлен архив CarShowRoom.zip, он содержит следующие файлы:
-CarShowRoom - create objects.sql – SQL запрос для создания БД на MS SQL Server
-CarShowRoom - create procedure.sql - SQL запрос для создания необходимой процедуры
-CarShowRoom - load data.sql - SQL запрос для заполнения данными БД
-CarShowRoom - drop all objects.sql - SQL запрос для удаления созданных объектов
+CarShowRoom - create objects.sql – SQL запрос для создания БД на MS SQL Server;
+CarShowRoom - create procedure.sql - SQL запрос для создания необходимой процедуры;
+CarShowRoom - load data.sql - SQL запрос для заполнения данными БД;
+CarShowRoom - drop all objects.sql - SQL запрос для удаления созданных объектов;
 Папка WpfCarShowRoom содержит разработанную программу C# 
 
 2.	Сборка тестового задания:
